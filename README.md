@@ -3,6 +3,10 @@
 
 ![QRCODE](resources/qrcode_project_url.png "Project URL")
 
+![QRCODE](resources/3D_PCB_ATOM_2025-03-05.png "PCB Example")
+
+
+
 # 支持的嵌入式模块
 M5STACK ATOM系列
 - ATOM Lite
