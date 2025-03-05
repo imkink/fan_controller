@@ -4,9 +4,9 @@
 
 # 支持的嵌入式模块
 M5STACK ATOM系列
-  ATOM Lite
-  ATOM Martix
-  ATOM S3
-  ATOM S3-Lite
-  ATOM S3-Echo
-  ATOM S3R
+- ATOM Lite
+- ATOM Martix
+- ATOM S3
+- ATOM S3-Lite
+- ATOM S3-Echo
+- ATOM S3R
