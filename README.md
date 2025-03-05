@@ -1,6 +1,7 @@
 # fan_controller
 使用嵌入式模块控制 12V PWM 风扇的项目
-// @author  kink
+
+![QRCODE](resources/qrcode_project_url.png "Project URL")
 
 # 支持的嵌入式模块
 M5STACK ATOM系列
