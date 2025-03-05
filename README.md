@@ -8,7 +8,7 @@
 
   
 # 支持的嵌入式模块
-M5STACK ATOM系列
+M5STACK ATOM
 > ATOM Lite  
 > ATOM Martix  
 > ATOM S3  
@@ -16,7 +16,10 @@ M5STACK ATOM系列
 > ATOM S3-Echo  
 > ATOM S3R  
 
-  
+WAVESHARE RP2040
+SeeedStudio XIAO
+
+
 # 电路
 
 
